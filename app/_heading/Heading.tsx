@@ -5,8 +5,10 @@ function Heading() {
     <nav className='w-[100%] py-[40px] shadow-xl'>
         <ul className='flex justify-around'>
             {
-              subjects.map(element => <li key={element.subjectId}>{element.subjectName}</li>)
+              subjects.map(element => <li key={element.subjectId}  className='cursor-pointer'>{element.subjectName}</li>)
             }
+            <li>Log in</li>
+            <li>Register</li>
         </ul>
     </nav>
   )
