@@ -1,15 +1,12 @@
 import React from 'react'
-
+import { subjects } from '../Subjects'
 function Heading() {
   return (
     <nav className='w-[100%] py-[40px] shadow-xl'>
         <ul className='flex justify-around'>
-            <li>Math</li>
-            <li>Physics</li>
-            <li>Biology</li>
-            <li>Chemistry</li>
-            <li>Login</li>
-            <li>Register</li>
+            {
+              subjects.map(element => <li key={element.subjectId}>{element.subjectName}</li>)
+            }
         </ul>
     </nav>
   )
