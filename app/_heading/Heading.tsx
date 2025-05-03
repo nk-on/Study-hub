@@ -10,8 +10,8 @@ function Heading() {
             <Link href={"subject"}>{element.subjectName}</Link>
           </li>
         ))}
-        <li>Log in</li>
-        <li>Register</li>
+        <Link href={'login'}><li>Log in</li></Link>
+        <Link href={'register'}>Register</Link>
       </ul>
     </nav>
   );
