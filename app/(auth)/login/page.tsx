@@ -1,16 +1,10 @@
 import React from 'react'
-
+import InputField from '../_form/inputFIeld'
 export default function Login() {
   return (
-    <div>
-      <div>
-        <label htmlFor='name'>Name</label>
-        <input type='text' id = "name" />
-      </div>
-      <div>
-        <label htmlFor='passsword'>Password</label>
-        <input type='password' id='password'/>
-      </div>
+    <div className='w-[100vw] h-[100vh] flex flex-col justify-center items-center'>
+      <InputField type={'text'} id = {'name'} />
+      <InputField type={'password'} id = {'password'} />
     </div>
   )
 }
