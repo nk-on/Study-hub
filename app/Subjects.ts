@@ -9,15 +9,15 @@ export const subjects  = [
         },
         {
           topicName: "Linear Equations",
-          youtubeLink: "https://www.youtube.com/watch?v=Y6xF1z9y_7M"
+          youtubeLink: "https://www.youtube.com/watch?v=kWOTmyoaWJg"
         },
         {
           topicName: "Pythagorean Theorem",
-          youtubeLink: "https://www.youtube.com/watch?v=yk6WBepwY1E"
+          youtubeLink: "https://www.youtube.com/watch?v=d8EA5TxGzcY"
         },
         {
           topicName: "Quadratic Equations",
-          youtubeLink: "https://www.youtube.com/watch?v=VO7YYjv66jQ"
+          youtubeLink: "https://www.youtube.com/watch?v=qeByhTF8WEw"
         }
       ]
     },
@@ -31,15 +31,15 @@ export const subjects  = [
         },
         {
           topicName: "Speed, Velocity, and Acceleration",
-          youtubeLink: "https://www.youtube.com/watch?v=envsF7zJh_w"
+          youtubeLink: "https://www.youtube.com/watch?v=P0UYC8S4kUI"
         },
         {
           topicName: "Work, Energy, and Power",
-          youtubeLink: "https://www.youtube.com/watch?v=t2WzXzZ1TR0"
+          youtubeLink: "https://www.youtube.com/watch?v=_MR1Dp8-F8w"
         },
         {
           topicName: "Laws of Reflection",
-          youtubeLink: "https://www.youtube.com/watch?v=Co8vBY9iQfM"
+          youtubeLink: "https://www.youtube.com/watch?v=yscrBkfPRyc"
         }
       ]
     },
@@ -49,19 +49,19 @@ export const subjects  = [
       topics: [
         {
           topicName: "Atomic Structure",
-          youtubeLink: "https://www.youtube.com/watch?v=thnDxFdkzZ4"
+          youtubeLink: "https://www.youtube.com/watch?v=OH-aSu-rWgk"
         },
         {
           topicName: "Periodic Table",
-          youtubeLink: "https://www.youtube.com/watch?v=0RRVV4Diomg"
+          youtubeLink: "https://www.youtube.com/watch?v=N8PaCCDplRw"
         },
         {
           topicName: "Chemical Reactions",
-          youtubeLink: "https://www.youtube.com/watch?v=8UqkImr3GH4"
+          youtubeLink: "https://www.youtube.com/watch?v=AkWYrp8Z5X4"
         },
         {
           topicName: "Acids and Bases",
-          youtubeLink: "https://www.youtube.com/watch?v=CNQWiQ_wF6I"
+          youtubeLink: "https://www.youtube.com/watch?v=FM2MpMbV0rw"
         }
       ]
     },
@@ -71,19 +71,19 @@ export const subjects  = [
       topics: [
         {
           topicName: "Cell Structure and Function",
-          youtubeLink: "https://www.youtube.com/watch?v=URUJD5NEXC8"
+          youtubeLink: "https://www.youtube.com/watch?v=vwAJ8ByQH2U"
         },
         {
           topicName: "Photosynthesis",
-          youtubeLink: "https://www.youtube.com/watch?v=upNac1heZpE"
+          youtubeLink: "https://www.youtube.com/watch?v=D2Y_eEaxrYo"
         },
         {
           topicName: "Respiration in Humans",
-          youtubeLink: "https://www.youtube.com/watch?v=4Za8kKJ8cD0"
+          youtubeLink: "https://www.youtube.com/watch?v=ZB7uA5o0mS4"
         },
         {
           topicName: "Human Digestive System",
-          youtubeLink: "https://www.youtube.com/watch?v=Og5xAdC8EUI"
+          youtubeLink: "https://www.youtube.com/watch?v=WWpRX7g_qvo"
         }
       ]
     }
