@@ -5,9 +5,9 @@ function Heading() {
   return (
     <nav className="w-[100%] py-[40px] shadow-xl">
       <ul className="flex justify-around">
-        {subjects.map((element) => (
+        {subjects.map((element,index) => (
           <li key={element.subjectId} className="cursor-pointer">
-            <Link href={"subject"}>{element.subjectName}</Link>
+            <Link href={`/subject/${index}`}>{element.subjectName}</Link>
           </li>
         ))}
         <Link href={'login'}><li>Log in</li></Link>
